@@ -3,5 +3,5 @@ PDF summarizer with Latent Dirichlet Allocation to save time when it comes to re
 
 # To Do
 - Clean data more in research LDA model
-- possibly do separate analysis on tablesin research
-- check distribution of tfidf to figure out what features can be tweaked/removed
+- possibly do separate analysis on tables in research
+- check distribution of tfidf to figure out what features can be tweaked/removed in research
