@@ -1,4 +1,4 @@
-# PDF-summarizer
+# Topic-Modeling-Summarizer
 PDF summarizer with Latent Dirichlet Allocation to save time when it comes to reading 
 
 # To Do
